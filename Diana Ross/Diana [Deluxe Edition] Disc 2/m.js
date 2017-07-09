@@ -1,0 +1,15 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Love Hangover [Alternate Take][Extended Alternate Mix].mp3";		
+f[2]	= "02 Your Love Is So Good for Me [12-Inch Version].mp3";		
+f[3]	= "03 Top of the World.mp3";		
+f[4]	= "04 Lovin', Livin' and Givin'.mp3";		
+f[5]	= "05 What You Gave Me [12-Inch Version].mp3";		
+f[6]	= "06 You Were the One.mp3";		
+f[7]	= "07 Diana Ross - the Supremes Medley of Hits [12-inch Mix].mp3";		
+f[8]	= "08 No One Gets the Prize-The Boss [12-Inch Re-Edit].mp3";		
+f[9]	= "09 I Ain't Been Licked [_][12-Inch Version].mp3";		
+f[10]	= "10 Fire Don't Burn [_].mp3";		
+f[11]	= "11 We Can Never Light That Old Flame Again [Alternate Mix][Alternate Take].mp3";		
+f[12]	= "12 You Build Me Up to Tear Me Down [_].mp3";		
+f[13]	= "13 Sweet Summertime Livin' [_].mp3";		
